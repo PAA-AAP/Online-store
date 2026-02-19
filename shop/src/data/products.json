@@ -40,5 +40,215 @@
       "https://picsum.photos/id/32/600/800",
       "https://picsum.photos/id/33/600/800"
     ]
+  },
+  {
+    "id": 4,
+    "name": "Смартфон Horizon X",
+    "price": 65000,
+    "rating": 4.9,
+    "category": "Электроника",
+    "description": "Флагманский смартфон с камерой 108 Мп и экраном 120 Гц.",
+    "extendedDescription": "Процессор последнего поколения, 12 ГБ оперативной памяти и быстрая зарядка на 100 Вт. Лучший выбор для геймеров и фотографов.",
+    "images": [
+      "https://picsum.photos/id/160/600/800",
+      "https://picsum.photos/id/161/600/800",
+      "https://picsum.photos/id/162/600/800"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Механическая клавиатура ClickPro",
+    "price": 7200,
+    "rating": 4.7,
+    "category": "Аксессуары",
+    "description": "Тактильная клавиатура с RGB подсветкой и сменными переключателями.",
+    "extendedDescription": "Алюминиевый корпус, возможность горячей замены свичей (Hot-swap) и кастомные кейкапы из PBT пластика.",
+    "images": [
+      "https://picsum.photos/id/180/600/800",
+      "https://picsum.photos/id/181/600/800",
+      "https://picsum.photos/id/182/600/800"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Кофемашина Barista Home",
+    "price": 28900,
+    "rating": 4.6,
+    "category": "Техника для дома",
+    "description": "Автоматическая кофемашина для идеального эспрессо и капучино.",
+    "extendedDescription": "Встроенная кофемолка с 15 степенями помола и система вспенивания молока «LatteGo». Ваш персональный бариста на кухне.",
+    "images": [
+      "https://picsum.photos/id/425/600/800",
+      "https://picsum.photos/id/426/600/800",
+      "https://picsum.photos/id/427/600/800"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Худи Oversize Cloud",
+    "price": 3500,
+    "rating": 4.4,
+    "category": "Одежда",
+    "description": "Уютное худи из плотного хлопка с начесом.",
+    "extendedDescription": "Стильный крой oversize, глубокий капюшон и износостойкий принт. Идеально для прохладных вечеров.",
+    "images": [
+      "https://picsum.photos/id/334/600/800",
+      "https://picsum.photos/id/335/600/800",
+      "https://picsum.photos/id/336/600/800"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Игровое кресло Stealth",
+    "price": 18500,
+    "rating": 4.8,
+    "category": "Мебель",
+    "description": "Эргономичное кресло с поддержкой поясницы и шеи.",
+    "extendedDescription": "Откидная спинка на 180 градусов, 4D подлокотники и экокожа премиум-класса. Комфорт даже во время долгих сессий.",
+    "images": [
+      "https://picsum.photos/id/445/600/800",
+      "https://picsum.photos/id/446/600/800",
+      "https://picsum.photos/id/447/600/800"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Набор для йоги Balance",
+    "price": 2100,
+    "rating": 4.3,
+    "category": "Спорт",
+    "description": "Коврик с антискользящим покрытием и два блока для растяжки.",
+    "extendedDescription": "Экологичный материал TPE, толщина 6 мм для защиты коленей и стильная сумка-чехол в комплекте.",
+    "images": [
+      "https://picsum.photos/id/678/600/800",
+      "https://picsum.photos/id/679/600/800",
+      "https://picsum.photos/id/680/600/800"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Умная колонка Aura",
+    "price": 5900,
+    "rating": 4.5,
+    "category": "Электроника",
+    "description": "Колонка с голосовым помощником и управлением умным домом.",
+    "extendedDescription": "Мощный звук 30 Вт, адаптивная подсветка и поддержка всех популярных музыкальных стримингов.",
+    "images": [
+      "https://picsum.photos/id/9/600/800",
+      "https://picsum.photos/id/10/600/800",
+      "https://picsum.photos/id/11/600/800"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Часы Classic Leather",
+    "price": 12000,
+    "rating": 4.2,
+    "category": "Аксессуары",
+    "description": "Наручные часы с кварцевым механизмом и кожаным ремешком.",
+    "extendedDescription": "Корпус из нержавеющей стали, сапфировое стекло и водонепроницаемость до 50 метров. Элегантная классика.",
+    "images": [
+      "https://picsum.photos/id/175/600/800",
+      "https://picsum.photos/id/176/600/800",
+      "https://picsum.photos/id/177/600/800"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Лампа Moon Light",
+    "price": 1800,
+    "rating": 4.7,
+    "category": "Декор",
+    "description": "Ночник в форме луны с 16 цветами подсветки.",
+    "extendedDescription": "Сенсорное управление, встроенный аккумулятор и деревянная подставка. Создает уют в любой комнате.",
+    "images": [
+      "https://picsum.photos/id/902/600/800",
+      "https://picsum.photos/id/903/600/800",
+      "https://picsum.photos/id/904/600/800"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Фитнес-браслет Active 5",
+    "price": 4300,
+    "rating": 4.6,
+    "category": "Электроника",
+    "description": "Трекер активности с мониторингом сна и уровня кислорода.",
+    "extendedDescription": "AMOLED-экран, до 14 дней автономной работы и более 50 спортивных режимов.",
+    "images": [
+      "https://picsum.photos/id/20/600/800",
+      "https://picsum.photos/id/21/600/800",
+      "https://picsum.photos/id/22/600/800"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Блендер PowerMix",
+    "price": 6700,
+    "rating": 4.1,
+    "category": "Техника для дома",
+    "description": "Стационарный блендер для смузи и колки льда.",
+    "extendedDescription": "Мотор 1200 Вт, стеклянная чаша на 1.5 литра и 3 автоматические программы для идеальной консистенции.",
+    "images": [
+      "https://picsum.photos/id/493/600/800",
+      "https://picsum.photos/id/494/600/800",
+      "https://picsum.photos/id/495/600/800"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Спортивная сумка Tour",
+    "price": 2900,
+    "rating": 4.4,
+    "category": "Спорт",
+    "description": "Прочная сумка с отдельным отсеком для обуви.",
+    "extendedDescription": "Водоотталкивающая ткань, объем 40 литров и плечевой ремень с мягкой подкладкой.",
+    "images": [
+      "https://picsum.photos/id/357/600/800",
+      "https://picsum.photos/id/358/600/800",
+      "https://picsum.photos/id/359/600/800"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Термос Voyager 1L",
+    "price": 1950,
+    "rating": 4.9,
+    "category": "Аксессуары",
+    "description": "Держит тепло до 24 часов, холод — до 36.",
+    "extendedDescription": "Двойные стенки из стали 18/8, герметичная крышка-чашка и пожизненная гарантия на вакуум.",
+    "images": [
+      "https://picsum.photos/id/200/600/800",
+      "https://picsum.photos/id/201/600/800",
+      "https://picsum.photos/id/202/600/800"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Повербанк EnergyBox",
+    "price": 3800,
+    "rating": 4.8,
+    "category": "Электроника",
+    "description": "Внешний аккумулятор на 20000 мАч с Power Delivery.",
+    "extendedDescription": "Заряжает ноутбуки через Type-C, поддерживает одновременную зарядку 3-х устройств.",
+    "images": [
+      "https://picsum.photos/id/119/600/800",
+      "https://picsum.photos/id/120/600/800",
+      "https://picsum.photos/id/121/600/800"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Набор ножей Titan",
+    "price": 9900,
+    "rating": 4.7,
+    "category": "Техника для дома",
+    "description": "Профессиональный набор из 5 японских ножей.",
+    "extendedDescription": "Высокоуглеродистая сталь, эргономичные ручки и магнитный держатель в комплекте.",
+    "images": [
+      "https://picsum.photos/id/312/600/800",
+      "https://picsum.photos/id/313/600/800",
+      "https://picsum.photos/id/314/600/800"
+    ]
   }
 ]
