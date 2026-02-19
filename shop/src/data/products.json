@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Зимняя куртка TechWave",
+    "price": 12500,
+    "rating": 4.8,
+    "category": "Одежда",
+    "description": "Стильная куртка с мембраной для экстремальных условий.",
+    "extendedDescription": "Материал GORE-TEX, выдерживает до -30 градусов. Имеет 5 внутренних карманов и систему вентиляции.",
+    "images": [
+      "https://picsum.photos/id/101/600/800",
+      "https://picsum.photos/id/102/600/800",
+      "https://picsum.photos/id/103/600/800"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Кроссовки Urban Runner",
+    "price": 8900,
+    "rating": 4.5,
+    "category": "Обувь",
+    "description": "Легкие кроссовки для бега по городу.",
+    "extendedDescription": "Амортизирующая подошва, дышащая сетка. Подходят для марафонов и ежедневных прогулок.",
+    "images": [
+      "https://picsum.photos/id/21/600/800",
+      "https://picsum.photos/id/22/600/800",
+      "https://picsum.photos/id/23/600/800"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Рюкзак Explorer 30L",
+    "price": 5400,
+    "rating": 4.9,
+    "category": "Аксессуары",
+    "description": "Вместительный рюкзак для походов и города.",
+    "extendedDescription": "Отсек для ноутбука 15.6, водонепроницаемая ткань, эргономичные лямки.",
+    "images": [
+      "https://picsum.photos/id/31/600/800",
+      "https://picsum.photos/id/32/600/800",
+      "https://picsum.photos/id/33/600/800"
+    ]
+  }
+]
